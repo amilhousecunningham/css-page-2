@@ -1,0 +1,42 @@
+/*--This is a comment, which you can leave here, or remove!--*/
+
+/* 1 property related to color on the page. */
+  body {
+    background-color: wheat;
+}
+
+/* 5 properties related to text on the page. */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+li {
+    text-shadow: 1px 1px 0px goldenrod;
+}
+
+/* 1 property related to lists; and  */
+ul {
+    list-style-type: square;
+}
+
+/* 3 other things you find interesting between Chapters 11 and 16.  */
+p  {
+    color: brown;
+ }
+
+p:first-letter {
+    font-size: 200%;
+    }
+
+em {
+    font-weight: bolder;
+}
